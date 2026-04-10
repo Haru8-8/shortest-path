@@ -67,8 +67,8 @@ Streamlit Cloud でインタラクティブデモを公開しています。
 
 ## 関連記事
 
-- （Qiita記事1：公開後に追記）
-- （Qiita記事2：公開後に追記）
+- [PythonによるDijkstra法・A*の実装と探索効率の比較](https://qiita.com/Haru8-8/items/38157de604f6a638f755)
+- [PythonによるBellman-Ford法の実装と負の重みへの対応](https://qiita.com/Haru8-8/items/9983409b3148417e1c87)
 
 ---
 
