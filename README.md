@@ -35,7 +35,7 @@
 
 ### デモURL
 Streamlit Cloud でインタラクティブデモを公開しています。  
-→ **（デプロイ後に追記）**
+→ **https://shortest-path-smdrgcccb5k6vhnwhhc4qh.streamlit.app/**
 
 ---
 
